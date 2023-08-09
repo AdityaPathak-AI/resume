@@ -53,3 +53,10 @@ div.h3{
     text-align: justify;
     padding: 3px;
 }
+ul{
+   list-style: none;
+}
+li{
+    display: inline;
+    font-weight: bolder;
+}
